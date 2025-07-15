@@ -5,7 +5,7 @@
 📍 Bangalore, India  
 📞 +91 9226992063  
 📧 sarveshsd999@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sarveshsd)
+🔗 [LinkedIn](https://www.linkedin.com/in/sarvesh-dharmadhikari-904393201/)
 
 ---
 
@@ -84,7 +84,7 @@ PostgreSQL, MySQL (basic)
 *Relevant Coursework:* Cyber Forensics, Network Security, Ethical Hacking, Cryptography, Security Analysis, Penetration Testing
 
 **MIT World Peace University**  
-📍 Pune, India | 🗓️ Graduated June 2021  
+📍 Pune, India | 🗓️ June 2018 - June 2021  
 🎓 Bachelor of Computer Application | CGPA: 7.34  
 *Relevant Coursework:* Data Structures, Algorithms, DBMS, OOP, Web Development, Operating Systems
 
